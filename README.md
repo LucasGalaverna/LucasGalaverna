@@ -5,11 +5,10 @@
 - 📚 Estudando Inglês, Italiano
 
 ### Think.  
-
 <div align="center">
   <a href="https://github.com/lucasgalaverna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgalaverna&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgalaverna&layout=compact&langs_count=7&theme=dark"/>
+  <img height="218em" src="https://github-readme-stats.vercel.app/api?username=lucasgalaverna&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgalaverna&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
