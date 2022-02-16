@@ -19,10 +19,11 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
-  <img align="right" alt="Lucas-Gif" height="200" style="border-radius:50px;"
- src=https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif src=https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif>
-       <img align="right" alt="Lucas-gif" height="200" style="border-radius:50px;"
+  <img align="right" alt="Lucas-gif" height="200" style="border-radius:50px;"
             src=https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif>
+    <img align="right" alt="Lucas-Gif" height="200" style="border-radius:50px;"
+ src=https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif src=https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif>
+       
        
   ##
   
