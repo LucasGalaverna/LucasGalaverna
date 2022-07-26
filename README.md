@@ -1,8 +1,8 @@
-### Ciao, Eu sou o Lucas Galaverna. 
+### Olá, Eu sou o Lucas Galaverna. 
 
 - 💻 Hoje trabalho com Consultoria Técnica
 - 📚 Estudando HTML5, CSS3, JavaS
-- 📚 Estudando Inglês, Italiano
+- 📚 Estudando Inglês e rabiscando o Italiano
 
 ### Think.  
 <div align="center">
