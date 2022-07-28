@@ -5,7 +5,7 @@
 - 📚 Estudando HTML5, CSS3, JavaS e Python
 - 📚 Estudando Inglês e rabiscando o Italiano
 
-### Think.  
+
 <div align="center">
   <a href="https://github.com/lucasgalaverna">
   <img height="216em" src="https://github-readme-stats.vercel.app/api?username=lucasgalaverna&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
