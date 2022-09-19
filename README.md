@@ -6,13 +6,7 @@
 - 📚 Estudando Inglês e rabiscando o Italiano.
 
 
-<div align="center">
 
-  <img height="216em" src="https://github-readme-stats.vercel.app/api?username=lucasgalaverna&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgalaverna&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
- 
   ##
   
   <div>
