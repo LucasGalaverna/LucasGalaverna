@@ -1,4 +1,4 @@
-### Oi, meu nome é Lucas Galaverna. 
+### Meu nome é Lucas Galaverna. 
 ### Think. 💻 
 - 📚 Studying Computer Science, Data Science, Automation Projects
 
