@@ -1,9 +1,6 @@
 ### Oi, meu nome é Lucas Galaverna. 
-### Think. 
-
-- 💻 Hoje trabalho com Consultoria Técnica.
-- 📚 Estudando JavaScript, Python, HTML5, CSS3. 
-- 📚 Estudando Inglês e rabiscando o Italiano.
+### Think. 💻 
+- 📚 Studying Computer Science, Data Science, Automation Projects
 
 
 
